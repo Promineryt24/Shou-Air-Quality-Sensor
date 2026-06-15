@@ -1,4 +1,4 @@
-# ☁️ Shou-Air-Quality-Sensor
+# ☁️ Shou-Air-Quality-Monitoring
 
 An Internet of Things (IoT) environmental monitoring system built to track indoor air quality. This project utilizes a Raspberry Pi Zero 2 W and an MQ-135 gas sensor to detect airborne pollutants, logging data locally to a CSV file and pushing real-time alerts to a ThingSpeak cloud dashboard.
 
